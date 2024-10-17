@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "chatboot-calendar",
+    "private_key_id": "90d76f828be5fa6554a760925bf134f003dcf23c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxtP9uCQExflYj\nNGrWneg377ODcm4JXZKCwmO9wK/vF/o/fOzcJujNeWjlMxGULPcHGK/Mwddri8By\nPaZvqh/Akp8yFeUomTljTR7x7Du3VwZsHDzTKOI2gEQKjXsDA7aQJddR05gp7vSb\nc2GL+5D+H4UvRNr78f5sKYGyHhNuqFVtbO+44iehpINJKg2vDDfWsdAy+KF4PCvI\nVSK0RCCO1GKhWSdlaxwGogeLOcNB48GqXp2V21E0/Ezvv+/un8nV8Bg28uz0RKIO\nf6craBcmVUeVKrgARMfUt2fEIPAiiMjZLRMZl0BL3VQXL9sZH1xSq+B9RJ2u0ChH\nzZPofI/BAgMBAAECggEAASvatYb+Or1A6CfPMteg6043cTjDxViYQ7fQOmzczgEq\n/GBUc3enT/wmeREF8wuMM+gNh9aA3vXhgoFB9a1F6v4OagEhYOP4aBVe9HBSpRDg\nDz4tB5Vmzw4XsLf9syuLAGqK76Bq4b8gLi5/qoGBo06p8RmpnbiyxRPNlcLvbOqw\n4FN2tSD5BAHIKELqHLG5aoFVGjQ7Pf+Bs9J5BIfZwcQ4YOJFQjjr+PS1NtLY5iV4\n19me1Hfl6yYtdP4jpCdtQndhdC4MTpbpQyz60AJH9TcasPlhKQgvf1yB6g1/5bss\n0Zv+pupm3czyY/K7yz+1XzO4rKwRVx7lhP/6iair4QKBgQDYbeuCe3Qu2JSMAo3E\nNsPJkKt3BdsN+INiQwNtoQcCG9glQdeBoZ2ln6L2zJuy/yZMGmAIxVePcc+xGzWN\nlHhgRqLq0WBJRQnrLnpLGITUiXJOYzkaGYtyWOxN1IsRVSyf59/dJFc53k6VEY8P\ng5sIzW4oPXOQHCm1Uc34iYKd4QKBgQDSMqjfZai0jUCJ7W6P91CkzuMwgOfAlqGv\naqhra28so9qwPuD1dcObCHTq6IwKmO8PxYnWJ8/PllYV+pjvfCJ2kYiGdb1RIk/l\ncCWqTvKdRQwRnQVMPn0ECt/1P9iSRWGcuhMk75HTrLp4MK/3ui9N2dJSeMBSfBUP\nJQo7yFdt4QKBgGb7ZqSfuZjQ1V4JmQtUQ7UVcYEg+CqdpWaMHIV9qagHN8IColi8\nXhcA7roggbWaUs7Dfg6uWAuZTAopuEG189FbywmQtxAmGaIea3JwKEQ5YnqKHBGf\nNgsi5M3j5IhKzwEHhC3lrNuMPDgSMtBe/tYhadkb5HEd9XqhgjBQviYBAoGBAJUM\nFRDrnfgBHR1wffCZ1tY2WYTAMxUt+pJPWANrl9aYjW5h99Q14DDjizwzD3JIRWPy\nl62CZ2n0WTCWlLFkXW+j/KIThN2uLecsYZjlCEYaetdWdzY8LRubtnjKAACgL/oZ\nO4/6THZDSaoGJBDONdLHPMr8EquqjqhBhIMlqVEhAoGBAIRt/A9647VZEfgoxBV0\nSEj9AT4ssXNg+aDKFFtvtlFZpxLw14utbpH4QxPW59eO8YQJk/RAnON/jCZayLly\nnNAVy1tSvREQdlKis52aTKEMdvTAX7gB/aqbSXOOkd9o7o/Ci/kKRICLdl+CoroN\nmBT+kEVFXI9CphfsfDkUijYi\n-----END PRIVATE KEY-----\n",
+    "client_email": "chatboot-turnos@chatboot-calendar.iam.gserviceaccount.com",
+    "client_id": "113417044229436441937",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatboot-turnos%40chatboot-calendar.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

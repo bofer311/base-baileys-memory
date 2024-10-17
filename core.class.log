@@ -1,0 +1,138 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493765037757@s.whatsapp.net',
+    fromMe: false,
+    id: 'FFEB2B35E7CFA7D9557934678BE7AC06',
+    participant: undefined
+  },
+  messageTimestamp: 1729134024,
+  pushName: 'Fer Bogado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493765037757'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d27e3e31-b5fc-4dc4-b406-638c0dbffe77',
+  keyword: 'key_264f3636-9312-4602-8498-be02ece7e163',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ea601bcf6ba36ecbbd6d0ea83a031af8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493765037757@s.whatsapp.net',
+    fromMe: false,
+    id: '5FB451A0ED9E73468D575F4E24C330CB',
+    participant: undefined
+  },
+  messageTimestamp: 1729134028,
+  pushName: 'Fer Bogado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agendar cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Agendar cita',
+  from: '5493765037757'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d27e3e31-b5fc-4dc4-b406-638c0dbffe77',
+  keyword: 'key_264f3636-9312-4602-8498-be02ece7e163',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ea601bcf6ba36ecbbd6d0ea83a031af8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493765037757@s.whatsapp.net',
+    fromMe: false,
+    id: '149F4757E091899716D7079AE405D96C',
+    participant: undefined
+  },
+  messageTimestamp: 1729134032,
+  pushName: 'Fer Bogado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lunes 14 de octubre 16hs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Lunes 14 de octubre 16hs',
+  from: '5493765037757'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc3ff932-376f-45db-a3a7-8e28c3abdf98',
+  keyword: 'ans_85f77b34-5d4c-4cc9-b846-e53b017a028d',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fc942b170224a2f281e7b8baa5de3c6b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493765037757@s.whatsapp.net',
+    fromMe: false,
+    id: '9AC10FC9B1ADCEF21C9ED294A070ECEC',
+    participant: undefined
+  },
+  messageTimestamp: 1729134041,
+  pushName: 'Fer Bogado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '5493765037757'
+}
